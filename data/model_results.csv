@@ -1,0 +1,9 @@
+Target,Model,MAE,RMSE,R2
+target_1h,Baseline (no change),0.761,1.061,0.914
+target_1h,Linear Regression,0.425,0.676,0.965
+target_1h,Random Forest,0.372,0.632,0.97
+target_1h,XGBoost,0.366,0.619,0.971
+target_24h,Baseline (no change),1.058,1.558,0.815
+target_24h,Linear Regression,0.947,1.325,0.866
+target_24h,Random Forest,0.951,1.329,0.865
+target_24h,XGBoost,0.938,1.31,0.869
